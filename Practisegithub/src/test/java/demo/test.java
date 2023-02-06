@@ -7,5 +7,7 @@ public class test {
 		//push to github
 		
 		System.out.println("from github");
+		
+		//automatic push by jenkins
 	}
 }
