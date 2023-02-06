@@ -9,5 +9,6 @@ public class test {
 		System.out.println("from github");
 		
 		//automatic push by jenkins1
+		//automatic push by jenkins2
 	}
 }
