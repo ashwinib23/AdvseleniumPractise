@@ -8,6 +8,6 @@ public class test {
 		
 		System.out.println("from github");
 		
-		//automatic push by jenkins
+		//automatic push by jenkins1
 	}
 }
